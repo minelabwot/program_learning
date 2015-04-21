@@ -25,7 +25,6 @@ int main()
 	auto num_begin=number.begin();
 	auto num_end=number.end()-1;
 	auto num_mid=number.begin()+number.size()/2;
-	
 	cout << "\nThe resualt is:\n";
 	for(int i=0;num_begin!=num_mid+1;num_begin++,num_end--,i++)
 	{
