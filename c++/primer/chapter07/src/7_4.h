@@ -3,7 +3,7 @@
 	> Author:stczwd
 	> Mail: qcsd2011@163.com 
 	> Created Time: 一  4/27 09:39:23 2015
-  > Explain:head 
+  > Explain: 
  ************************************************************************/
 #include<iostream>
 #include<string>
